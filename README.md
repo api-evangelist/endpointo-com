@@ -1,4 +1,4 @@
-# endpointo-com
+# Endpointo
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,130 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-endpointo-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://endpointo.com/
+Free generators that write the HTML for a contact, registration or upload form and show you the markup, with a paid endpoint that receives what the form posts, emails it to you and keeps every submission.
+
+**Areas:** HTML · Form · Generator · API · Endpoint
+
+## Endpointo on APIs.io
+
+Everything profiled for Endpointo is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/endpointo-com/](https://apis.io/providers/endpointo-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Endpointo Dataset API](https://apis.io/apis/endpointo-com/endpointo-com-dataset-api/) — dataset
+- [Endpointo MCP API](https://apis.io/apis/endpointo-com/endpointo-com-mcp-api/) — The mcp API from Endpointo — 1 operation(s) for mcp.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Endpointo Com Agentic Access](https://apis.io/agentic-access/endpointo-com/endpointo-com-agentic-access/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Endpointo Com Openapi Overlay](https://apis.io/overlays/endpointo-com/endpointo-com-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Endpointo API Rules](https://apis.io/rules/endpointo-com/endpointo-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Endpointo Com Authentication](https://apis.io/security/endpointo-com/endpointo-com-authentication/)
+- [Endpointo Com Domain Security](https://apis.io/security/endpointo-com/endpointo-com-domain-security/)
+- [Endpointo Com Vulnerability Disclosure](https://apis.io/security/endpointo-com/endpointo-com-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Endpointo Com Scopes](https://apis.io/scopes/endpointo-com/endpointo-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Endpointo Com Plans Pricing](https://apis.io/plans/endpointo-com/endpointo-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Endpointo Com Rate Limits](https://apis.io/rate-limits/endpointo-com/endpointo-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://endpointo.com/)
+- [Pricing](https://endpointo.com/pricing/)
+- [Support](https://endpointo.com/support/)
+- [Security](https://endpointo.com/terms)
+- [Terms of service](https://endpointo.com/terms/)
+- [Privacy policy](https://endpointo.com/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 43.7** — developing · rubric 0.26.0 · scored 2026-11-07
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 44.4 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 11.2 |
+| Access clarity | 50.5 |
+
+**Agent readiness 35.8** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 34.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/endpointo-com/](https://apis.io/providers/endpointo-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Endpointo: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/endpointo-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
